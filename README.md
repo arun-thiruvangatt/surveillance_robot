@@ -1,1 +1,4 @@
 # surveillance_robot
+24 hours Surveillance Robot for High Security Exhibit, is a surveillance robot can use in many scenarios for ensuring the security of the Exhibit.
+The working of this robot is mainly based on Arduino and Raspberry pi. Arduino will control all type of mechanical movements of the robot. Mainly motions of the robot. The robot travell through predefined path and if there is any obstacle detected on the path, then the robot stop and produce alarm until the obstacle moves from there.
+The camera mounted on the top of the robot is using for surveillance. The camera will ensure the security of the Exhibit. If there is any hand gestures detected then the robot will capture that image of theft attempt and send to the telegram bot in the surveillance room. The details about the telegram bot integrated in the python code. All these processes are controlled by Raspberry pi. The copy of the image will store in the Raspberry pi.
