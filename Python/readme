@@ -1,0 +1,1 @@
+This file contain the code for the raspberry pi for image processing and handgesture detecting. If any handgesture detected surround the high security exhibit then the camara will capture that image and send it to the telegram bot in the surveillance room.
